@@ -1,0 +1,40 @@
+[2018-10-19 10:16:23.402][INF] The COM:Core ver is 5.3.5.2, 2017_11_24. Async:1.
+[2018-10-19 10:16:23.402][INF] This hcnetsdk ver is 5.3.5.2 Ver 2017_11_24.
+[2018-10-19 10:16:23.402][INF] login dev 192.168.1.64:8000.
+[2018-10-19 10:16:23.962][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10000 port=50998
+[2018-10-19 10:16:23.962][INF] LogonDev1 in[192.168.1.64:8000]
+[2018-10-19 10:16:25.555][INF] login dev 192.168.1.64:8000.
+[2018-10-19 10:16:25.556][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10000 port=51000
+[2018-10-19 10:16:25.556][INF] LogonDev1 in[192.168.1.64:8000]
+[2018-10-19 10:16:25.571][DBG] load[.//HCNetSDKCom/libHCAlarm.so] succ
+[2018-10-19 10:16:25.571][INF] AbilityAnalyze---Init-- start
+[2018-10-19 10:16:25.840][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/terren/HKvison/lib/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2018-10-19 10:16:25.841][INF] The COM:HCAlarm ver is 5.3.5.2, 2017_11_24.
+[2018-10-19 10:16:26.098][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x111020 port=51002
+[2018-10-19 10:16:26.100][INF] [SendCommandWithRecv] linkId=3bc445d4, cmd=0x111020
+[2018-10-19 10:16:26.101][DBG] Alarm[0] IP[192.168.1.64] CArmingSession::Start SUCC
+[2018-10-19 10:16:41.534][INF] CloseAlarmChan AlarmHandle[0]
+[2018-10-19 10:16:41.534][DBG] Alarm[0] IP[192.168.1.64] CArmingSession::Stop
+[2018-10-19 10:16:41.545][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10100 port=51004
+[2018-10-19 10:17:37.059][INF] login dev 192.168.1.64:8000.
+[2018-10-19 10:17:37.061][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10000 port=51006
+[2018-10-19 10:17:37.061][INF] LogonDev1 in[192.168.1.64:8000]
+[2018-10-19 10:17:37.073][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x111020 port=51008
+[2018-10-19 10:17:37.075][INF] [SendCommandWithRecv] linkId=3bc445d4, cmd=0x111020
+[2018-10-19 10:17:37.075][DBG] Alarm[1] IP[192.168.1.64] CArmingSession::Start SUCC
+[2018-10-19 10:17:49.348][INF] CloseAlarmChan AlarmHandle[1]
+[2018-10-19 10:17:49.348][DBG] Alarm[1] IP[192.168.1.64] CArmingSession::Stop
+[2018-10-19 10:17:49.359][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10100 port=51010
+[2018-10-19 10:19:04.025][INF] login dev 192.168.1.64:8000.
+[2018-10-19 10:19:04.025][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x10000 port=51014
+[2018-10-19 10:19:04.025][INF] LogonDev1 in[192.168.1.64:8000]
+[2018-10-19 10:19:04.042][INF] Private connect 192.168.1.64:8000 sock=36 this=0x3bc445d4 cmd=0x111020 port=51016
+[2018-10-19 10:19:04.044][INF] [SendCommandWithRecv] linkId=3bc445d4, cmd=0x111020
+[2018-10-19 10:19:04.044][DBG] Alarm[2] IP[192.168.1.64] CArmingSession::Start SUCC
+[2018-10-19 10:23:04.069][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:23:14.069][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:23:24.070][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:26:34.081][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:30:04.094][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:30:14.095][DBG] Alarm chan [2] recv timeout[2]!
+[2018-10-19 10:30:24.095][DBG] Alarm chan [2] recv timeout[2]!

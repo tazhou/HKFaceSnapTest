@@ -1,0 +1,3 @@
+Facesnap.o: ../../src/Facesnap.cpp ../../src/public.h \
+ ../../src/../include/HCNetSDK.h ../../src/Facesnap.h \
+ ../../include/HCNetSDK.h
