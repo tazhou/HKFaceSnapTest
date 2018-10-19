@@ -1,12 +1,12 @@
 /*
 * Copyright(C) 2010,Hikvision Digital Technology Co., Ltd 
 * 
-* File   name£ºCapPicture.cpp
-* Discription£º
-* Version    £º1.0
-* Author     £ºpanyd
-* Create Date£º2010_3_25
-* Modification History£º
+* File   nameï¿½ï¿½CapPicture.cpp
+* Discriptionï¿½ï¿½
+* Version    ï¿½ï¿½1.0
+* Author     ï¿½ï¿½panyd
+* Create Dateï¿½ï¿½2010_3_25
+* Modification Historyï¿½ï¿½
 */
 
 #include "public.h"
@@ -17,9 +17,9 @@
 #include <stdlib.h>
 #include "string.h"
 #include <unistd.h>
-#include<sys/types.h>
-#include<sys/stat.h>
-#include<fcntl.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 
 
 
@@ -86,7 +86,7 @@ BOOL CALLBACK FaceMessageCallback(LONG lCommand, NET_DVR_ALARMER *pAlarmer, char
       Function:   Demo_Facesnap
    Description:   Face snap function test.
      Parameter:   (IN)   none 
-        Return:   0--success£¬-1--fail.   
+        Return:   0--successï¿½ï¿½-1--fail.   
 **********************************************************************/
 int Demo_Facesnap()
 {
